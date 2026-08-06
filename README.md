@@ -1,6 +1,6 @@
-# 云享免费节点分享 | 移动版
+# OpenClash Config Feed
 
-> 这份镜像更偏手机使用，Shadowrocket 和 iOS 排错会更清楚。
+> A router-side entry built around OpenClash and OpenWrt usage, with the article as the only maintained daily source.
 
 ## 今日获取入口
 
@@ -22,7 +22,7 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。移动端使用说明和正文放在一起，减少复制误差。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。路由器配置更怕旧地址扩散，所以只保留文章入口更好维护。
 
 ## 快速入口
 
@@ -35,7 +35,7 @@ https://free.yunxiang.lol/posts/nodes/2026-08-06
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看移动端文档，再回到当天文章取地址。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。OpenClash 场景先看正文，再结合路由器文档和排错页。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 

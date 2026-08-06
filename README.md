@@ -1,6 +1,6 @@
-# 云享免费节点分享 | Clash / Mihomo / V2Ray 每日更新
+# 云享免费节点分享 | 移动版
 
-> 本仓库只同步每日免费节点文章入口、使用说明和归档记录。真实免费订阅地址不在 GitHub 直接公开，请进入当天博客文章查看。
+> 这份镜像更偏手机使用，Shadowrocket 和 iOS 排错会更清楚。
 
 ## 今日获取入口
 
@@ -22,22 +22,20 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。GitHub 只做索引和分发入口，这样可以把更新时间、导入教程、失效排查、使用边界和稳定套餐说明集中到同一篇文章里。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。移动端使用说明和正文放在一起，减少复制误差。
 
 ## 快速入口
 
 - 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-06
-- 每日免费节点归档：https://free.yunxiang.lol/nodes
-- 客户端专题页：https://free.yunxiang.lol/topics
-- 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
 - 常见问题文档：https://free.yunxiang.lol/docs
 - 连接异常排查：https://free.yunxiang.lol/docs/troubleshooting/no-internet
+- 每日免费节点归档：https://free.yunxiang.lol/nodes
 - RSS 更新源：https://free.yunxiang.lol/rss.xml
 - 稳定付费套餐：https://user.yunxiangpnv.lol/
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看移动端文档，再回到当天文章取地址。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 

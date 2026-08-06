@@ -6,9 +6,9 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 更新日期 | 2026年8月6日 |
-| 自动同步时间 | 2026年8月6日 00:00 |
-| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-08-06 |
+| 更新日期 | 2026年8月7日 |
+| 自动同步时间 | 2026年8月7日 00:00 |
+| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-08-07 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,14 +19,14 @@
 ### 当天文章链接
 
 ```text
-https://free.yunxiang.lol/posts/nodes/2026-08-06
+https://free.yunxiang.lol/posts/nodes/2026-08-07
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。路由器配置更怕旧地址扩散，所以只保留文章入口更好维护。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-06
+- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-07
 - 常见问题文档：https://free.yunxiang.lol/docs
 - 连接异常排查：https://free.yunxiang.lol/docs/troubleshooting/no-internet
 - 每日免费节点归档：https://free.yunxiang.lol/nodes
